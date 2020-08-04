@@ -1,7 +1,7 @@
 web_render_template
 ===================
 
-Framework & Toolchain
+Framework & toolchain
 ---------------------
 
 * node.js
@@ -24,4 +24,4 @@ Setup
 #. Open `[your_project_name_here].code-workspace` with VSC.
 #. (Recommended) Install VSC extension `ESLint`.
 #. Debug: run `start` in the view `NPM SCRIPTS` to live-preview the web page.
-#. Deploy: run `start` in the view `NPM SCRIPTS` to compile the website into `dist/`.
+#. Deploy: run `build` in the view `NPM SCRIPTS` to compile the website into `dist/` for publish.
